@@ -1,0 +1,43 @@
+{
+    "name": "A View From My Seat",
+    "description": "Seating view photos from sports and concert stadiums, arenas and theaters around the world",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/297-a-view-from-my-seat.jpg",
+    "tags": [
+        "api not found",
+        "have api",
+        "images",
+        "no api definition",
+        "photos"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/a-view-from-my-seat\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/aviewfrommyseat.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/a-view-from-my-seat"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/a-view-from-my-seat"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.aviewfrommyseat.com\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/aviewfrommyseat"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/aviewfrommyseat.com\/"
+        }
+    ]
+}
